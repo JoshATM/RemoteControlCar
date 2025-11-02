@@ -1,4 +1,4 @@
-# Remote Control Car Code
+# Remote Control Car
 ![IMG_3485](https://github.com/user-attachments/assets/ef944d42-e001-4cae-a430-33829fbb8c4d)
 Controls
 
